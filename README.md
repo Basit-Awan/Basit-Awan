@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Abdul Basit
+🤖 AI Student | 💻 Tech Enthusiast | 📊 Digital Creator
+Passionate about leveraging data, code, and intelligence to solve real-world problems.
 
-<!--
-**Basit-Awan/Basit-Awan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+🎓 Currently pursuing a Bachelor of Science in Artificial Intelligence at Pak-Austria Fachhochschule, Haripur
+💡 Interested in Machine Learning, Deep Learning, and Smart Systems
+🔍 Focused on building intelligent, efficient, and ethical AI solutions
 
-Here are some ideas to get you started:
+🛠️ Skills
+Programming: Python, C++, Java (basic)
+AI/ML Tools: NumPy, Pandas, scikit-learn, TensorFlow (learning)
+Web Fundamentals: HTML, CSS (learning JavaScript)
+Tech Tools: Git, GitHub, Jupyter, VS Code
+Soft Skills: Problem Solving, Critical Thinking, Time Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+🤖 AI-Powered Chatbot – Designed a basic chatbot using NLP and Python
+📊 Data Visualization Dashboard – Created dashboards using Python libraries
+🧠 ML Models for Classification – Implemented models on real-world datasets
+
+
+🌐 Languages
+English (Professional)
+Urdu (Native)
+Pashto (Fluent)
